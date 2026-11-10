@@ -1,0 +1,7 @@
+data/raw/
+llaves_privadas.json
+*.xlsx
+*.xls
+data/processed/*.csv
+.DS_Store
+.ipynb_checkpoints/
